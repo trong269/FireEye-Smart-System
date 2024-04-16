@@ -2,3 +2,4 @@ opencv-python~=4.8.1.78
 numpy~=1.26.1
 ultralytics~=8.1.47
 python-telegram-bot
+pyglet~=2.0.15
